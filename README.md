@@ -1,6 +1,6 @@
-# joke-generator
+# Joke Generator Project Challenge 
 
- Joke Generator Project Challenge In the last video, we saw how to make a
+ In the last video, we saw how to make a
       request to an API using the `XMLHttpRequest` object. In this video, we'll
       use the same technique to make a request to the
       [https://api.chucknorris.io/](https://api.chucknorris.io/) to get a random
